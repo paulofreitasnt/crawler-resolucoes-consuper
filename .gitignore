@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+pdfs
+pdfs_ifpb_completos
 
 # C extensions
 *.so
